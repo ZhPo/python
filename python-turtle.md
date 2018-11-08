@@ -28,8 +28,3 @@ turtle.done() # 使turtle窗口不会自动消失 
 turtle.isvisible() # 如果turtle可见，返回turtle 
 turtle.write(‘str’,font=(“Arial”,8,”normal”)) # 在turtle位置编写字符串s，字体由字体名、字体大小、字体类型三部分组成 
 turtle.position() # 获取画笔的坐标，返回一个元组，值为浮点型
---------------------- 
-作者：永不—>止步 
-来源：CSDN 
-原文：https://blog.csdn.net/qq_38723677/article/details/82781208 
-版权声明：本文为博主原创文章，转载请附上博文链接！
